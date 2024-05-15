@@ -81,11 +81,19 @@
 
 ![Screenshot 2024-05-15 220318](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/0d6ac5fa-96e0-4c51-a4d2-7714209fd9e0)
 
+## create cloud front 
 
+![Screenshot 2024-05-15 220554](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/4e4e989a-a695-4959-856e-52db62a53783)
 
+![Screenshot 2024-05-15 220717](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/d4bc565c-aa9f-4f74-ba5c-b8f5455480ac)
 
+![Screenshot 2024-05-15 220724](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/acd72067-fe9a-4a15-b345-a3c3198358c4)
 
+![Screenshot 2024-05-15 220728](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/ad4d2f18-e876-43cb-b68d-049f2e13df77)
 
+![Screenshot 2024-05-15 221349](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/af3c8214-9bd8-4e27-96a6-05a6847b5c24)
+
+![Screenshot 2024-05-15 221328](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/32f23799-1f56-4ce0-a44c-054734819a3e)
 
 
 
