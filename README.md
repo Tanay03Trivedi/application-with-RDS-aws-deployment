@@ -24,4 +24,50 @@
 
 ![Screenshot 2024-05-15 201644](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/e2f25e0a-90ca-444c-9ab3-1ef2be8e51ec)
 
-## install depedences of application and cloning git file for application
+## install depedences of application on private instances using bastion 
+
+![image](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/a4aadcb9-d873-4537-9e06-f85c252c1409)
+### do same on 2nd instance also
+
+## create s3 bucket and RDS
+
+![Screenshot 2024-05-15 204241](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/1a76f614-6cec-4f9d-99dd-7920fd0bd2d9)
+
+![Screenshot 2024-05-15 204452](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/3e0600d7-554d-42c5-859e-670c227b441b)
+
+![Screenshot 2024-05-15 204459](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/4be33ddc-fd46-4ae8-ae44-ebb4e8aa4dbb)
+
+![Screenshot 2024-05-15 204505](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/27eeffb1-b7d3-4a58-8694-4e80d45558eb)
+
+![Screenshot 2024-05-15 204510](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/4411fc60-2307-4396-b69d-c8ccb3b64064)
+
+![Screenshot 2024-05-15 204521](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/d3444ae9-7439-4f7a-aca4-1716efafd8fd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2024-05-15 204452](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/d5ce8d65-f290-41ce-8875-0ccb95eb6fb4)
+
+![Screenshot 2024-05-15 204521](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/399ad2ad-d844-4f3f-819d-216377ec978e)
