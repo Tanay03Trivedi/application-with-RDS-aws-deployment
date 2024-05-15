@@ -55,6 +55,17 @@
 
 ![Screenshot 2024-05-15 205535](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/e930a990-f53f-45aa-bfcd-bc4daa9502ca)
 
+## create a IAM role to give instance access of s3 and attch that role to private instances
+
+![image](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/e2f97ef1-55bc-44c0-b9c5-68bbe6840113)
+
+![Screenshot 2024-05-15 210045](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/e9523dae-ed56-4d83-8da0-4da2dde9074a)
+
+## install mysql client and access rds
+
+![Screenshot 2024-05-15 211102](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/32e0db2d-b44e-401a-adbb-6593eb60b0ab)
+
+![image](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/07009844-a5d0-4f1b-9e8b-3d7575c700eb)
 
 
 
