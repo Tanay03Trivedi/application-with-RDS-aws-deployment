@@ -29,9 +29,13 @@
 ![image](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/a4aadcb9-d873-4537-9e06-f85c252c1409)
 ### do same on 2nd instance also
 
-## create s3 bucket and RDS
+## create s3 bucket, RDS and read replica
+
+### s3
 
 ![Screenshot 2024-05-15 204241](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/1a76f614-6cec-4f9d-99dd-7920fd0bd2d9)
+
+### RDS
 
 ![Screenshot 2024-05-15 204452](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/3e0600d7-554d-42c5-859e-670c227b441b)
 
@@ -43,6 +47,13 @@
 
 ![Screenshot 2024-05-15 204521](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/d3444ae9-7439-4f7a-aca4-1716efafd8fd)
 
+### Read replica in diffrent az
+
+![Screenshot 2024-05-15 205517](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/0ca1fbc1-0cdf-4ad4-81f8-07e2a0763efc)
+
+![Screenshot 2024-05-15 205528](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/6f8754e9-251a-472a-86d9-bbcd6d52b147)
+
+![Screenshot 2024-05-15 205535](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/e930a990-f53f-45aa-bfcd-bc4daa9502ca)
 
 
 
@@ -64,10 +75,3 @@
 
 
 
-
-
-
-
-![Screenshot 2024-05-15 204452](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/d5ce8d65-f290-41ce-8875-0ccb95eb6fb4)
-
-![Screenshot 2024-05-15 204521](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/399ad2ad-d844-4f3f-819d-216377ec978e)
