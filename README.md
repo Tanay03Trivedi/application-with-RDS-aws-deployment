@@ -79,6 +79,7 @@
 
 ![Screenshot 2024-05-15 220051](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/1305db30-e631-45a0-8422-6993bd695a09)
 
+![Screenshot 2024-05-15 220318](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/0d6ac5fa-96e0-4c51-a4d2-7714209fd9e0)
 
 
 
