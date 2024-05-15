@@ -67,13 +67,17 @@
 
 ![image](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/07009844-a5d0-4f1b-9e8b-3d7575c700eb)
 
+## run application on both instances
 
+![Screenshot 2024-05-15 213129](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/86ef8b52-d7f8-4264-9e7d-3a5655fb2dc6)
 
+## Test with Application Loadbalancer
 
+![Screenshot 2024-05-15 215847](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/8597ce5d-e652-4e19-8bc9-17f3b398763e)
 
+![Screenshot 2024-05-15 215801](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/bb8237f0-ae49-44fd-b40c-944211707a96)
 
-
-
+![Screenshot 2024-05-15 220051](https://github.com/Tanay03Trivedi/fully-funcation-aws-application-deployment/assets/160705084/1305db30-e631-45a0-8422-6993bd695a09)
 
 
 
